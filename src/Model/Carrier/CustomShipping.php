@@ -1,5 +1,4 @@
 <?php
-
 namespace MagePsycho\CustomShipping\Model\Carrier;
 
 use Magento\Framework\App\Config\ScopeConfigInterface;
